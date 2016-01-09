@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="78166ead5f1793270fb95aff9f878f98331ac6e9">
+        <dex dex="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-0d9752dbc29df469c78c60005eb0326ae8eee7cc.jar" />
+    </item>
+    <item
+        jar="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="51740db7999259bcef8a679f349034c760ceb172">
+        <dex dex="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-cc6aaa517b6e0db825936e757f314405ffb6c67c.jar" />
+    </item>
+    <item
+        jar="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="312452430a607b39b92221fbed687e458ed9c8c7">
+        <dex dex="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-f854ccd57aa72fe029f4570403d87acd5f3fbdc2.jar" />
+    </item>
+    <item
+        jar="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9112d15701e2c29945597c234eb28110f3e77ddc">
+        <dex dex="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-6483ecee5b1b2e05886bccf399855ac4f16690ad.jar" />
+    </item>
+    <item
+        jar="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="be03c1ee2c4c731033845ec1846923138dc9e0fa">
+        <dex dex="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-06402c33fc45248dcdf0ff44ef93dd1312c8ef98.jar" />
+    </item>
+    <item
+        jar="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\exploded-aar\FTC-2901-2016-master\openCVLibrary300\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ac59852a1cdf6eae9016b839248a283523910c9">
+        <dex dex="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-5dd56b8b679fb7b5960a9886814df616491f7eec.jar" />
+    </item>
+    <item
+        jar="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5f9e5d9a3cadf7329bbbaea6def0fb86d3773a2">
+        <dex dex="D:\Downloads\FTC-2901-2016-master\FTC-2901-2016-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-cc0e62aaee39593ab4e11a1fddb4806b6c6567f7.jar" />
+    </item>
+
+</items>
